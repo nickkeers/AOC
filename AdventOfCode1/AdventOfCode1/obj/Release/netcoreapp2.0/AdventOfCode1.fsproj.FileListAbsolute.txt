@@ -1,0 +1,11 @@
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\1.txt
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\AdventOfCode1.deps.json
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\AdventOfCode1.runtimeconfig.json
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\AdventOfCode1.runtimeconfig.dev.json
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\AdventOfCode1.dll
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\AdventOfCode1.pdb
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\PuzzleInput.dll
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\bin\Release\netcoreapp2.0\PuzzleInput.pdb
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\obj\Release\netcoreapp2.0\AdventOfCode1.fsprojResolveAssemblyReference.cache
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\obj\Release\netcoreapp2.0\AdventOfCode1.dll
+D:\Code\AOC\AdventOfCode1\AdventOfCode1\obj\Release\netcoreapp2.0\AdventOfCode1.pdb

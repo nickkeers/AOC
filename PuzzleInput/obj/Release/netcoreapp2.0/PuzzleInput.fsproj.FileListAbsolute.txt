@@ -1,0 +1,6 @@
+D:\Code\AOC\PuzzleInput\bin\Release\netcoreapp2.0\PuzzleInput.deps.json
+D:\Code\AOC\PuzzleInput\bin\Release\netcoreapp2.0\PuzzleInput.dll
+D:\Code\AOC\PuzzleInput\bin\Release\netcoreapp2.0\PuzzleInput.pdb
+D:\Code\AOC\PuzzleInput\obj\Release\netcoreapp2.0\PuzzleInput.fsprojResolveAssemblyReference.cache
+D:\Code\AOC\PuzzleInput\obj\Release\netcoreapp2.0\PuzzleInput.dll
+D:\Code\AOC\PuzzleInput\obj\Release\netcoreapp2.0\PuzzleInput.pdb
